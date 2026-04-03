@@ -1,13 +1,15 @@
 
 Hello everyone 🌊
-  
-My name is **Jaime Hernández**, I am a software developer 👨🏽‍💻 graduated from *Instituto Tecnológico de Las Américas* (Dominican Republic).
 
-I know the basics of **C++, C#, JavaScript, Php, Python,** among others. However, I have a lot to learn.
+My name is Jaime Hernández, and I am a software developer 👨🏽‍💻, graduated from the Instituto Tecnológico de Las Américas and currently studying at the Instituto Tecnológico de Santo Domingo (Dominican Republic).
 
-I am currently working as a fullstack developer with **React** ⚛️ and C#. My goal for now is to learn the **MERN** stack 🚀 
+I know the basics of C#, JavaScript, TypeScript, and Python, in that order. However, I still have a lot to learn.
 
-I am also interested in learning about machine learning🤖.
+I am currently working as a full-stack developer using React ⚛️ and Node.js. My current goal is to deepen my knowledge in software architecture and optimization 🚀
+
+I am also learning about machine learning 🤖
+
+Check out my portfolio [here](https://jaime-hndz.github.io/jportfolio/)
 <!-- 
 <div align="center">
   <a href="https://github.com/jaime-hndz">
